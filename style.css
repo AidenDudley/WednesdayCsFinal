@@ -1,20 +1,40 @@
-p {
-    font-size: 17px;
-    font-family: cursive;
+
+
+.bigboy {
+  color: white;
 }
-body {background-color: gray;}
+.mine {
+  font-size: 28px ;
+  color: white ;
+}
+.ui {
+  color: white ;
+}
+
+p {
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    color: #f2f2f2;
+    text-align: center;
+}
+body {
+  background-color: gray;
+}
 
 h1 {
-  font-family: 'Permanent Marker', cursive;
     text-align: center;
+    color: white;
 }
+
   h2 {
-    font-family: 'Permanent Marker', cursive;
     text-align: center;
+    color: #f2f2f2;
   }
-  .col-sm-12 {
-    text-align: center;
+  
+    .col-sm-4 {
+      color: white ; 
   }
+
   /* Add a color to the active/current link */
   .navv a.active {
     background-color: #4CAF50;
@@ -67,3 +87,15 @@ h1 {
   li a:hover {
     background-color: skyblue;
   }
+  .col-sm-3 {
+    display: inline-block;
+    text-align: center;
+  }
+
+  h3 {
+    text-align: center;
+    color: #f2f2f2;
+  }
+    
+    
+  
